@@ -25,16 +25,16 @@ Transport and housing made the largest weighted contributions to inflation in Ju
 Dashboard Preview
 
 1. Cost of Living Overview
-2. 
+   
 ![Overview](screenshots/NZ%20Cost%20of%20Living%20Overview.png) 
 
 
 3. Regional & Category Analysis
-4. 
+   
 ![Regional Analysis](screenshots/NZ%20Regional%20%26%20Category%20Analysis.png)
 
 5. Retail Prices & Consumer Impact
-6. 
+   
 ![Retail Prices](screenshots/NZ%20Retail%20Prices%20Consumer%20Impact.png)
 
 
