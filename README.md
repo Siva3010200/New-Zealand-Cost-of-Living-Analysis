@@ -29,11 +29,11 @@ Dashboard Preview
 ![Overview](screenshots/NZ%20Cost%20of%20Living%20Overview.png) 
 
 
-3. Regional & Category Analysis
+2. Regional & Category Analysis
    
 ![Regional Analysis](screenshots/NZ%20Regional%20%26%20Category%20Analysis.png)
 
-5. Retail Prices & Consumer Impact
+3. Retail Prices & Consumer Impact
    
 ![Retail Prices](screenshots/NZ%20Retail%20Prices%20Consumer%20Impact.png)
 
