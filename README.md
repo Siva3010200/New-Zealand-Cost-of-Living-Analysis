@@ -1,20 +1,29 @@
-# New Zealand Cost of Living Analysis
+New Zealand Cost of Living Analysis
 
-## Overview
-An end-to-end data analytics project exploring New Zealand's inflation trends from June 2025 to June 2026 using official Stats NZ data.
+Overview
 
-## Tools
-- Excel / Power Query
-- MySQL
-- SQL
-- Power BI
+An end-to-end data analytics project investigating New Zealand's inflation trends from June 2025 to June 2026 using official Stats NZ data.
 
-## Analysis
-- Overall inflation trends
-- CPI category comparisons
-- Regional and housing inflation
-- Retail price changes
-- Weighted contributions to inflation
+Tools
+
+Excel | Power Query | MySQL | SQL | Power BI
+
+Key Analysis
+
+Overall inflation trends and quarterly comparisons
+CPI category inflation and expenditure weights
+Regional and housing inflation comparisons
+Selected retail price changes
+Weighted contributions to overall inflation
+
+Key Findings
+Overall inflation increased from 2.7% to 4.1%.
+Education recorded the highest five-quarter average inflation at approximately 5.56%.
+Transport had the largest increase in category inflation.
+Transport and housing made the largest weighted contributions to inflation in June 2026.
+
+Dashboard Preview
+Power BI dashboard screenshots will be displayed here.
 
 ## Data Source
 [Stats NZ — Consumers Price Index, June 2026 quarter](https://www.stats.govt.nz/information-releases/consumers-price-index-june-2026-quarter/)
