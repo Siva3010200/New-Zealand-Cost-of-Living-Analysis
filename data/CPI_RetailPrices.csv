@@ -1,0 +1,141 @@
+﻿Item,Code,Unit,Quarter,Retail_Price
+    Beer – bottles (supermarket & liquor store),SAP0200,1 dozen,Jun-25,24.49
+    Beer – bottles (supermarket & liquor store),SAP0200,1 dozen,Sep-25,24.58
+    Beer – bottles (supermarket & liquor store),SAP0200,1 dozen,Dec-25,24.57
+    Beer – bottles (supermarket & liquor store),SAP0200,1 dozen,Mar-26,24.88
+    Beer – bottles (supermarket & liquor store),SAP0200,1 dozen,Jun-26,25.47
+    Beer – glass (licensed premises),SAP0210,400ml,Jun-25,8.61
+    Beer – glass (licensed premises),SAP0210,400ml,Sep-25,8.67
+    Beer – glass (licensed premises),SAP0210,400ml,Dec-25,8.71
+    Beer – glass (licensed premises),SAP0210,400ml,Mar-26,8.72
+    Beer – glass (licensed premises),SAP0210,400ml,Jun-26,8.77
+"    Wine – cask, white (supermarket & liquor store)",SAP0220,3 litres,Jun-25,30.36
+"    Wine – cask, white (supermarket & liquor store)",SAP0220,3 litres,Sep-25,30.39
+"    Wine – cask, white (supermarket & liquor store)",SAP0220,3 litres,Dec-25,30.42
+"    Wine – cask, white (supermarket & liquor store)",SAP0220,3 litres,Mar-26,30.44
+"    Wine – cask, white (supermarket & liquor store)",SAP0220,3 litres,Jun-26,30.34
+    Whisky (liquor store),SAP0230,"1,000ml",Jun-25,57.13
+    Whisky (liquor store),SAP0230,"1,000ml",Sep-25,59
+    Whisky (liquor store),SAP0230,"1,000ml",Dec-25,58.79
+    Whisky (liquor store),SAP0230,"1,000ml",Mar-26,60.09
+    Whisky (liquor store),SAP0230,"1,000ml",Jun-26,60.29
+    Cigarettes (supermarket & convenience store),SAP0240,pk of 25,Jun-25,57.39
+    Cigarettes (supermarket & convenience store),SAP0240,pk of 25,Sep-25,57.58
+    Cigarettes (supermarket & convenience store),SAP0240,pk of 25,Dec-25,58.62
+    Cigarettes (supermarket & convenience store),SAP0240,pk of 25,Mar-26,61.25
+    Cigarettes (supermarket & convenience store),SAP0240,pk of 25,Jun-26,61.28
+    Socks – men's (clothing store & department store),SAP0300,pair,Jun-25,12.91
+    Socks – men's (clothing store & department store),SAP0300,pair,Sep-25,12.56
+    Socks – men's (clothing store & department store),SAP0300,pair,Dec-25,12.47
+    Socks – men's (clothing store & department store),SAP0300,pair,Mar-26,12.82
+    Socks – men's (clothing store & department store),SAP0300,pair,Jun-26,12.58
+"    Dry cleaning – men's two-piece, woollen suit",SAP0320,each,Jun-25,43.15
+"    Dry cleaning – men's two-piece, woollen suit",SAP0320,each,Sep-25,43.27
+"    Dry cleaning – men's two-piece, woollen suit",SAP0320,each,Dec-25,43.44
+"    Dry cleaning – men's two-piece, woollen suit",SAP0320,each,Mar-26,43.44
+"    Dry cleaning – men's two-piece, woollen suit",SAP0320,each,Jun-26,44.42
+    Spouting/guttering – plastic,SAP0400,per 3m,Jun-25,63.57
+    Spouting/guttering – plastic,SAP0400,per 3m,Sep-25,67.36
+    Spouting/guttering – plastic,SAP0400,per 3m,Dec-25,68.57
+    Spouting/guttering – plastic,SAP0400,per 3m,Mar-26,68.72
+    Spouting/guttering – plastic,SAP0400,per 3m,Jun-26,77.81
+    Concrete blocks – 390mm x 190mm x 190mm,SAP0410,per 100,Jun-25,615.11
+    Concrete blocks – 390mm x 190mm x 190mm,SAP0410,per 100,Sep-25,615.09
+    Concrete blocks – 390mm x 190mm x 190mm,SAP0410,per 100,Dec-25,621.05
+    Concrete blocks – 390mm x 190mm x 190mm,SAP0410,per 100,Mar-26,599.97
+    Concrete blocks – 390mm x 190mm x 190mm,SAP0410,per 100,Jun-26,615.19
+"    House paint – acrylic, white",SAP0420,10 litres,Jun-25,209.63
+"    House paint – acrylic, white",SAP0420,10 litres,Sep-25,212.04
+"    House paint – acrylic, white",SAP0420,10 litres,Dec-25,207.77
+"    House paint – acrylic, white",SAP0420,10 litres,Mar-26,208.63
+"    House paint – acrylic, white",SAP0420,10 litres,Jun-26,213.13
+"    Carpet – wool, heavy duty, cut pile, width 3.66m",SAP0500,per m,Jun-25,236.47
+"    Carpet – wool, heavy duty, cut pile, width 3.66m",SAP0500,per m,Sep-25,232.41
+"    Carpet – wool, heavy duty, cut pile, width 3.66m",SAP0500,per m,Dec-25,243.66
+"    Carpet – wool, heavy duty, cut pile, width 3.66m",SAP0500,per m,Mar-26,245.66
+"    Carpet – wool, heavy duty, cut pile, width 3.66m",SAP0500,per m,Jun-26,242.8
+    Clothes washing powder – concentrate (supermarket),SAP0531,500g,Jun-25,3.97
+    Clothes washing powder – concentrate (supermarket),SAP0531,500g,Sep-25,3.72
+    Clothes washing powder – concentrate (supermarket),SAP0531,500g,Dec-25,3.8
+    Clothes washing powder – concentrate (supermarket),SAP0531,500g,Mar-26,3.75
+    Clothes washing powder – concentrate (supermarket),SAP0531,500g,Jun-26,3.72
+    Detergent – dishwashing liquid (supermarket)(3),SAP0541,750ml,Jun-25,4.35
+    Detergent – dishwashing liquid (supermarket)(3),SAP0541,750ml,Sep-25,4.34
+    Detergent – dishwashing liquid (supermarket)(3),SAP0541,750ml,Dec-25,4.34
+    Detergent – dishwashing liquid (supermarket)(3),SAP0541,750ml,Mar-26,4.37
+    Detergent – dishwashing liquid (supermarket)(3),SAP0541,750ml,Jun-26,4.35
+    Cling food wrap – refill roll (supermarket),SAP0550,45m,Jun-25,4.78
+    Cling food wrap – refill roll (supermarket),SAP0550,45m,Sep-25,4.71
+    Cling food wrap – refill roll (supermarket),SAP0550,45m,Dec-25,4.82
+    Cling food wrap – refill roll (supermarket),SAP0550,45m,Mar-26,4.89
+    Cling food wrap – refill roll (supermarket),SAP0550,45m,Jun-26,4.82
+"    General Practitioner – consultation, adult without community services card",SAP0600,each,Jun-25,55.32
+"    General Practitioner – consultation, adult without community services card",SAP0600,each,Sep-25,57.16
+"    General Practitioner – consultation, adult without community services card",SAP0600,each,Dec-25,57.06
+"    General Practitioner – consultation, adult without community services card",SAP0600,each,Mar-26,58.12
+"    General Practitioner – consultation, adult without community services card",SAP0600,each,Jun-26,58.43
+    Optometrist – examination,SAP0610,each,Jun-25,95.86
+    Optometrist – examination,SAP0610,each,Sep-25,104.69
+    Optometrist – examination,SAP0610,each,Dec-25,110.13
+    Optometrist – examination,SAP0610,each,Mar-26,110.69
+    Optometrist – examination,SAP0610,each,Jun-26,111.32
+"    Dental examination – 2 X-rays, scale and polish",SAP0620,each,Jun-25,190.01
+"    Dental examination – 2 X-rays, scale and polish",SAP0620,each,Sep-25,190.54
+"    Dental examination – 2 X-rays, scale and polish",SAP0620,each,Dec-25,190.51
+"    Dental examination – 2 X-rays, scale and polish",SAP0620,each,Mar-26,188.09
+"    Dental examination – 2 X-rays, scale and polish",SAP0620,each,Jun-26,195.17
+    Car battery – 12 volts,SAP0700,each,Jun-25,196.29
+    Car battery – 12 volts,SAP0700,each,Sep-25,195.3
+    Car battery – 12 volts,SAP0700,each,Dec-25,189.99
+    Car battery – 12 volts,SAP0700,each,Mar-26,195.38
+    Car battery – 12 volts,SAP0700,each,Jun-26,198.06
+    Petrol – 91 octane,SAP0710,10 litres,Jun-25,25.36
+    Petrol – 91 octane,SAP0710,10 litres,Sep-25,25.4
+    Petrol – 91 octane,SAP0710,10 litres,Dec-25,26.06
+    Petrol – 91 octane,SAP0710,10 litres,Mar-26,26.98
+    Petrol – 91 octane,SAP0710,10 litres,Jun-26,32.42
+    Petrol – 95/98 octane,SAP0720,10 litres,Jun-25,27.35
+    Petrol – 95/98 octane,SAP0720,10 litres,Sep-25,27.35
+    Petrol – 95/98 octane,SAP0720,10 litres,Dec-25,27.96
+    Petrol – 95/98 octane,SAP0720,10 litres,Mar-26,28.91
+    Petrol – 95/98 octane,SAP0720,10 litres,Jun-26,34.62
+    Diesel,SAP0730,10 litres,Jun-25,18.39
+    Diesel,SAP0730,10 litres,Sep-25,18.54
+    Diesel,SAP0730,10 litres,Dec-25,19.28
+    Diesel,SAP0730,10 litres,Mar-26,21.46
+    Diesel,SAP0730,10 litres,Jun-26,32.25
+    Warrant of fitness – private car,SAP0740,each,Jun-25,76.14
+    Warrant of fitness – private car,SAP0740,each,Sep-25,76.68
+    Warrant of fitness – private car,SAP0740,each,Dec-25,78.74
+    Warrant of fitness – private car,SAP0740,each,Mar-26,78.99
+    Warrant of fitness – private car,SAP0740,each,Jun-26,79.49
+    Pet food – canned (supermarket),SAP0910,700g,Jun-25,4.46
+    Pet food – canned (supermarket),SAP0910,700g,Sep-25,4.51
+    Pet food – canned (supermarket),SAP0910,700g,Dec-25,4.48
+    Pet food – canned (supermarket),SAP0910,700g,Mar-26,4.4
+    Pet food – canned (supermarket),SAP0910,700g,Jun-26,4.22
+"    Hairdressing – women's shampoo, cut, and blow wave",SAP1100,each,Jun-25,93.41
+"    Hairdressing – women's shampoo, cut, and blow wave",SAP1100,each,Sep-25,93.9
+"    Hairdressing – women's shampoo, cut, and blow wave",SAP1100,each,Dec-25,94.06
+"    Hairdressing – women's shampoo, cut, and blow wave",SAP1100,each,Mar-26,94.48
+"    Hairdressing – women's shampoo, cut, and blow wave",SAP1100,each,Jun-26,95.73
+"    Bathroom soap – cake, 100g (supermarket)",SAP1110,pk of 4,Jun-25,5.52
+"    Bathroom soap – cake, 100g (supermarket)",SAP1110,pk of 4,Sep-25,5.59
+"    Bathroom soap – cake, 100g (supermarket)",SAP1110,pk of 4,Dec-25,5.26
+"    Bathroom soap – cake, 100g (supermarket)",SAP1110,pk of 4,Mar-26,5.32
+"    Bathroom soap – cake, 100g (supermarket)",SAP1110,pk of 4,Jun-26,5.4
+    Shampoo (supermarket),SAP1120,400ml,Jun-25,6.55
+    Shampoo (supermarket),SAP1120,400ml,Sep-25,6.47
+    Shampoo (supermarket),SAP1120,400ml,Dec-25,6.29
+    Shampoo (supermarket),SAP1120,400ml,Mar-26,6.34
+    Shampoo (supermarket),SAP1120,400ml,Jun-26,6.35
+    Tissues – facial (supermarket),SAP1130,box of 180,Jun-25,3.37
+    Tissues – facial (supermarket),SAP1130,box of 180,Sep-25,3.31
+    Tissues – facial (supermarket),SAP1130,box of 180,Dec-25,3.41
+    Tissues – facial (supermarket),SAP1130,box of 180,Mar-26,3.51
+    Tissues – facial (supermarket),SAP1130,box of 180,Jun-26,3.38
+    Toilet paper (supermarket),SAP1141,12 rolls,Jun-25,6.86
+    Toilet paper (supermarket),SAP1141,12 rolls,Sep-25,6.94
+    Toilet paper (supermarket),SAP1141,12 rolls,Dec-25,6.97
+    Toilet paper (supermarket),SAP1141,12 rolls,Mar-26,7.01
+    Toilet paper (supermarket),SAP1141,12 rolls,Jun-26,7.03

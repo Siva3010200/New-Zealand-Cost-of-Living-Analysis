@@ -1,0 +1,281 @@
+﻿Category,Code,Level1,Quarter,Inflation
+Food group,SE901,Group,Jun-25,4.2
+Food group,SE901,Group,Sep-25,4.6
+Food group,SE901,Group,Dec-25,4.3
+Food group,SE901,Group,Mar-26,4
+Food group,SE901,Group,Jun-26,2.8
+    Fruit and vegetables,SE9011,Subgroup,Jun-25,4.3
+    Fruit and vegetables,SE9011,Subgroup,Sep-25,7.5
+    Fruit and vegetables,SE9011,Subgroup,Dec-25,4
+    Fruit and vegetables,SE9011,Subgroup,Mar-26,7.4
+    Fruit and vegetables,SE9011,Subgroup,Jun-26,2.2
+"    Meat, poultry, and fish",SE9012,Subgroup,Jun-25,4.8
+"    Meat, poultry, and fish",SE9012,Subgroup,Sep-25,7.1
+"    Meat, poultry, and fish",SE9012,Subgroup,Dec-25,7.3
+"    Meat, poultry, and fish",SE9012,Subgroup,Mar-26,7.7
+"    Meat, poultry, and fish",SE9012,Subgroup,Jun-26,6.9
+    Grocery food,SE9013,Subgroup,Jun-25,4.8
+    Grocery food,SE9013,Subgroup,Sep-25,4.4
+    Grocery food,SE9013,Subgroup,Dec-25,4.5
+    Grocery food,SE9013,Subgroup,Mar-26,2.5
+    Grocery food,SE9013,Subgroup,Jun-26,1.6
+    Non-alcoholic beverages,SE9014,Subgroup,Jun-25,5.9
+    Non-alcoholic beverages,SE9014,Subgroup,Sep-25,4.3
+    Non-alcoholic beverages,SE9014,Subgroup,Dec-25,4.9
+    Non-alcoholic beverages,SE9014,Subgroup,Mar-26,4
+    Non-alcoholic beverages,SE9014,Subgroup,Jun-26,1.2
+    Restaurant meals and ready-to-eat food,SE9015,Subgroup,Jun-25,2.1
+    Restaurant meals and ready-to-eat food,SE9015,Subgroup,Sep-25,2.4
+    Restaurant meals and ready-to-eat food,SE9015,Subgroup,Dec-25,2.4
+    Restaurant meals and ready-to-eat food,SE9015,Subgroup,Mar-26,2.8
+    Restaurant meals and ready-to-eat food,SE9015,Subgroup,Jun-26,3
+Alcoholic beverages and tobacco group,SE902,Group,Jun-25,2.4
+Alcoholic beverages and tobacco group,SE902,Group,Sep-25,2.3
+Alcoholic beverages and tobacco group,SE902,Group,Dec-25,2.1
+Alcoholic beverages and tobacco group,SE902,Group,Mar-26,2.3
+Alcoholic beverages and tobacco group,SE902,Group,Jun-26,2.8
+    Alcoholic beverages,SE9021,Subgroup,Jun-25,0.8
+    Alcoholic beverages,SE9021,Subgroup,Sep-25,0.7
+    Alcoholic beverages,SE9021,Subgroup,Dec-25,0.3
+    Alcoholic beverages,SE9021,Subgroup,Mar-26,0.4
+    Alcoholic beverages,SE9021,Subgroup,Jun-26,1.3
+    Cigarettes and tobacco,SE9022,Subgroup,Jun-25,5.3
+    Cigarettes and tobacco,SE9022,Subgroup,Sep-25,4.9
+    Cigarettes and tobacco,SE9022,Subgroup,Dec-25,5.8
+    Cigarettes and tobacco,SE9022,Subgroup,Mar-26,5.8
+    Cigarettes and tobacco,SE9022,Subgroup,Jun-26,5.7
+Clothing and footwear group,SE903,Group,Jun-25,-0.8
+Clothing and footwear group,SE903,Group,Sep-25,0
+Clothing and footwear group,SE903,Group,Dec-25,1.7
+Clothing and footwear group,SE903,Group,Mar-26,1.3
+Clothing and footwear group,SE903,Group,Jun-26,2.5
+    Clothing,SE9031,Subgroup,Jun-25,-0.7
+    Clothing,SE9031,Subgroup,Sep-25,-0.4
+    Clothing,SE9031,Subgroup,Dec-25,1.9
+    Clothing,SE9031,Subgroup,Mar-26,1.7
+    Clothing,SE9031,Subgroup,Jun-26,2
+    Footwear,SE9032,Subgroup,Jun-25,-0.7
+    Footwear,SE9032,Subgroup,Sep-25,1.4
+    Footwear,SE9032,Subgroup,Dec-25,1.1
+    Footwear,SE9032,Subgroup,Mar-26,-0.5
+    Footwear,SE9032,Subgroup,Jun-26,4.6
+Housing and household utilities group,SE904,Group,Jun-25,4
+Housing and household utilities group,SE904,Group,Sep-25,3.5
+Housing and household utilities group,SE904,Group,Dec-25,3.5
+Housing and household utilities group,SE904,Group,Mar-26,3.4
+Housing and household utilities group,SE904,Group,Jun-26,3.6
+    Actual rentals for housing,SE9041,Subgroup,Jun-25,3.2
+    Actual rentals for housing,SE9041,Subgroup,Sep-25,2.6
+    Actual rentals for housing,SE9041,Subgroup,Dec-25,1.9
+    Actual rentals for housing,SE9041,Subgroup,Mar-26,1.2
+    Actual rentals for housing,SE9041,Subgroup,Jun-26,0.5
+    Home ownership,SE9042,Subgroup,Jun-25,0.8
+    Home ownership,SE9042,Subgroup,Sep-25,0.8
+    Home ownership,SE9042,Subgroup,Dec-25,1.2
+    Home ownership,SE9042,Subgroup,Mar-26,1
+    Home ownership,SE9042,Subgroup,Jun-26,2.7
+    Property maintenance,SE9043,Subgroup,Jun-25,1.4
+    Property maintenance,SE9043,Subgroup,Sep-25,1.2
+    Property maintenance,SE9043,Subgroup,Dec-25,2.3
+    Property maintenance,SE9043,Subgroup,Mar-26,3.7
+    Property maintenance,SE9043,Subgroup,Jun-26,4.4
+    Property rates and related services,SE9044,Subgroup,Jun-25,11.9
+    Property rates and related services,SE9044,Subgroup,Sep-25,8.3
+    Property rates and related services,SE9044,Subgroup,Dec-25,8.2
+    Property rates and related services,SE9044,Subgroup,Mar-26,8.2
+    Property rates and related services,SE9044,Subgroup,Jun-26,8.3
+    Household energy,SE9045,Subgroup,Jun-25,9.1
+    Household energy,SE9045,Subgroup,Sep-25,11.4
+    Household energy,SE9045,Subgroup,Dec-25,12.2
+    Household energy,SE9045,Subgroup,Mar-26,12.3
+    Household energy,SE9045,Subgroup,Jun-26,11.6
+Household contents and services group,SE905,Group,Jun-25,-0.5
+Household contents and services group,SE905,Group,Sep-25,-1.7
+Household contents and services group,SE905,Group,Dec-25,-0.6
+Household contents and services group,SE905,Group,Mar-26,0
+Household contents and services group,SE905,Group,Jun-26,0.3
+"    Furniture, furnishings, and floor coverings",SE9051,Subgroup,Jun-25,-0.4
+"    Furniture, furnishings, and floor coverings",SE9051,Subgroup,Sep-25,-5.2
+"    Furniture, furnishings, and floor coverings",SE9051,Subgroup,Dec-25,-0.6
+"    Furniture, furnishings, and floor coverings",SE9051,Subgroup,Mar-26,0.4
+"    Furniture, furnishings, and floor coverings",SE9051,Subgroup,Jun-26,1.2
+    Household textiles,SE9052,Subgroup,Jun-25,-3.4
+    Household textiles,SE9052,Subgroup,Sep-25,-0.1
+    Household textiles,SE9052,Subgroup,Dec-25,4.9
+    Household textiles,SE9052,Subgroup,Mar-26,5.6
+    Household textiles,SE9052,Subgroup,Jun-26,1.2
+    Household appliances,SE9053,Subgroup,Jun-25,-0.9
+    Household appliances,SE9053,Subgroup,Sep-25,0.3
+    Household appliances,SE9053,Subgroup,Dec-25,-1.1
+    Household appliances,SE9053,Subgroup,Mar-26,-0.9
+    Household appliances,SE9053,Subgroup,Jun-26,0.1
+"    Glassware, tableware, and household utensils",SE9054,Subgroup,Jun-25,-0.2
+"    Glassware, tableware, and household utensils",SE9054,Subgroup,Sep-25,1.4
+"    Glassware, tableware, and household utensils",SE9054,Subgroup,Dec-25,-2.8
+"    Glassware, tableware, and household utensils",SE9054,Subgroup,Mar-26,1.3
+"    Glassware, tableware, and household utensils",SE9054,Subgroup,Jun-26,-0.5
+    Tools and equipment for house and garden,SE9055,Subgroup,Jun-25,-1.1
+    Tools and equipment for house and garden,SE9055,Subgroup,Sep-25,-0.9
+    Tools and equipment for house and garden,SE9055,Subgroup,Dec-25,-3
+    Tools and equipment for house and garden,SE9055,Subgroup,Mar-26,-3.9
+    Tools and equipment for house and garden,SE9055,Subgroup,Jun-26,-1.7
+    Other household supplies and services,SE9056,Subgroup,Jun-25,1.5
+    Other household supplies and services,SE9056,Subgroup,Sep-25,-0.5
+    Other household supplies and services,SE9056,Subgroup,Dec-25,-0.2
+    Other household supplies and services,SE9056,Subgroup,Mar-26,0.1
+    Other household supplies and services,SE9056,Subgroup,Jun-26,0.5
+Health group,SE906,Group,Jun-25,4.4
+Health group,SE906,Group,Sep-25,0.6
+Health group,SE906,Group,Dec-25,0.7
+Health group,SE906,Group,Mar-26,4.1
+Health group,SE906,Group,Jun-26,4
+"    Medical products, appliances, and equipment",SE9061,Subgroup,Jun-25,6
+"    Medical products, appliances, and equipment",SE9061,Subgroup,Sep-25,-6.3
+"    Medical products, appliances, and equipment",SE9061,Subgroup,Dec-25,-5.5
+"    Medical products, appliances, and equipment",SE9061,Subgroup,Mar-26,5.9
+"    Medical products, appliances, and equipment",SE9061,Subgroup,Jun-26,3.9
+    Out-patient services,SE9062,Subgroup,Jun-25,2.8
+    Out-patient services,SE9062,Subgroup,Sep-25,3.6
+    Out-patient services,SE9062,Subgroup,Dec-25,3.4
+    Out-patient services,SE9062,Subgroup,Mar-26,3.3
+    Out-patient services,SE9062,Subgroup,Jun-26,4
+    Hospital services,SE9063,Subgroup,Jun-25,9
+    Hospital services,SE9063,Subgroup,Sep-25,3.6
+    Hospital services,SE9063,Subgroup,Dec-25,3.5
+    Hospital services,SE9063,Subgroup,Mar-26,4
+    Hospital services,SE9063,Subgroup,Jun-26,4.5
+Transport group,SE907,Group,Jun-25,-0.9
+Transport group,SE907,Group,Sep-25,1.8
+Transport group,SE907,Group,Dec-25,2.6
+Transport group,SE907,Group,Mar-26,3.3
+Transport group,SE907,Group,Jun-26,10.6
+    Purchase of vehicles,SE9071,Subgroup,Jun-25,0.8
+    Purchase of vehicles,SE9071,Subgroup,Sep-25,2.4
+    Purchase of vehicles,SE9071,Subgroup,Dec-25,1.1
+    Purchase of vehicles,SE9071,Subgroup,Mar-26,2.1
+    Purchase of vehicles,SE9071,Subgroup,Jun-26,1.3
+    Private transport supplies and services,SE9072,Subgroup,Jun-25,-3.6
+    Private transport supplies and services,SE9072,Subgroup,Sep-25,1
+    Private transport supplies and services,SE9072,Subgroup,Dec-25,3.6
+    Private transport supplies and services,SE9072,Subgroup,Mar-26,3.8
+    Private transport supplies and services,SE9072,Subgroup,Jun-26,19.1
+    Passenger transport services,SE9073,Subgroup,Jun-25,3.5
+    Passenger transport services,SE9073,Subgroup,Sep-25,2.8
+    Passenger transport services,SE9073,Subgroup,Dec-25,2.2
+    Passenger transport services,SE9073,Subgroup,Mar-26,3.7
+    Passenger transport services,SE9073,Subgroup,Jun-26,1.7
+Communication group,SE908,Group,Jun-25,1.4
+Communication group,SE908,Group,Sep-25,2.5
+Communication group,SE908,Group,Dec-25,4.8
+Communication group,SE908,Group,Mar-26,4.6
+Communication group,SE908,Group,Jun-26,6.8
+    Postal services,SE9081,Subgroup,Jun-25,2.7
+    Postal services,SE9081,Subgroup,Sep-25,8.4
+    Postal services,SE9081,Subgroup,Dec-25,8.4
+    Postal services,SE9081,Subgroup,Mar-26,8.9
+    Postal services,SE9081,Subgroup,Jun-26,10.3
+    Telecommunication equipment,SE9082,Subgroup,Jun-25,-25.2
+    Telecommunication equipment,SE9082,Subgroup,Sep-25,-15.2
+    Telecommunication equipment,SE9082,Subgroup,Dec-25,-5.5
+    Telecommunication equipment,SE9082,Subgroup,Mar-26,-2.4
+    Telecommunication equipment,SE9082,Subgroup,Jun-26,13.6
+    Telecommunication services,SE9083,Subgroup,Jun-25,7.2
+    Telecommunication services,SE9083,Subgroup,Sep-25,6.4
+    Telecommunication services,SE9083,Subgroup,Dec-25,7
+    Telecommunication services,SE9083,Subgroup,Mar-26,6
+    Telecommunication services,SE9083,Subgroup,Jun-26,5.2
+Recreation and culture group,SE909,Group,Jun-25,3.6
+Recreation and culture group,SE909,Group,Sep-25,3.6
+Recreation and culture group,SE909,Group,Dec-25,3.2
+Recreation and culture group,SE909,Group,Mar-26,2.2
+Recreation and culture group,SE909,Group,Jun-26,2.2
+    Audio-visual and computing equipment,SE9091,Subgroup,Jun-25,-11.1
+    Audio-visual and computing equipment,SE9091,Subgroup,Sep-25,-12.5
+    Audio-visual and computing equipment,SE9091,Subgroup,Dec-25,-9.6
+    Audio-visual and computing equipment,SE9091,Subgroup,Mar-26,-11.1
+    Audio-visual and computing equipment,SE9091,Subgroup,Jun-26,-4.3
+    Major recreational and cultural equipment,SE9092,Subgroup,Jun-25,2.4
+    Major recreational and cultural equipment,SE9092,Subgroup,Sep-25,2.6
+    Major recreational and cultural equipment,SE9092,Subgroup,Dec-25,3
+    Major recreational and cultural equipment,SE9092,Subgroup,Mar-26,2.8
+    Major recreational and cultural equipment,SE9092,Subgroup,Jun-26,0.5
+    Other recreational equipment and supplies,SE9093,Subgroup,Jun-25,1.4
+    Other recreational equipment and supplies,SE9093,Subgroup,Sep-25,0.1
+    Other recreational equipment and supplies,SE9093,Subgroup,Dec-25,-1.5
+    Other recreational equipment and supplies,SE9093,Subgroup,Mar-26,-0.8
+    Other recreational equipment and supplies,SE9093,Subgroup,Jun-26,2
+    Recreational and cultural services,SE9094,Subgroup,Jun-25,7.1
+    Recreational and cultural services,SE9094,Subgroup,Sep-25,7
+    Recreational and cultural services,SE9094,Subgroup,Dec-25,6.6
+    Recreational and cultural services,SE9094,Subgroup,Mar-26,6.8
+    Recreational and cultural services,SE9094,Subgroup,Jun-26,3.3
+"    Newspapers, books, and stationery",SE9095,Subgroup,Jun-25,0.8
+"    Newspapers, books, and stationery",SE9095,Subgroup,Sep-25,3.4
+"    Newspapers, books, and stationery",SE9095,Subgroup,Dec-25,3.3
+"    Newspapers, books, and stationery",SE9095,Subgroup,Mar-26,0.5
+"    Newspapers, books, and stationery",SE9095,Subgroup,Jun-26,4.3
+    Accommodation services,SE9096,Subgroup,Jun-25,5.3
+    Accommodation services,SE9096,Subgroup,Sep-25,6.9
+    Accommodation services,SE9096,Subgroup,Dec-25,7
+    Accommodation services,SE9096,Subgroup,Mar-26,2.8
+    Accommodation services,SE9096,Subgroup,Jun-26,2.3
+Education group,SE910,Group,Jun-25,0.6
+Education group,SE910,Group,Sep-25,9.6
+Education group,SE910,Group,Dec-25,9.6
+Education group,SE910,Group,Mar-26,4
+Education group,SE910,Group,Jun-26,4
+    Early childhood education,SE9101,Subgroup,Jun-25,-22.8
+    Early childhood education,SE9101,Subgroup,Sep-25,2.5
+    Early childhood education,SE9101,Subgroup,Dec-25,2.5
+    Early childhood education,SE9101,Subgroup,Mar-26,2.5
+    Early childhood education,SE9101,Subgroup,Jun-26,2.5
+    Primary and secondary education,SE9102,Subgroup,Jun-25,4
+    Primary and secondary education,SE9102,Subgroup,Sep-25,4
+    Primary and secondary education,SE9102,Subgroup,Dec-25,4
+    Primary and secondary education,SE9102,Subgroup,Mar-26,5.1
+    Primary and secondary education,SE9102,Subgroup,Jun-26,5.1
+    Tertiary and other post-school education,SE9103,Subgroup,Jun-25,22.6
+    Tertiary and other post-school education,SE9103,Subgroup,Sep-25,22.6
+    Tertiary and other post-school education,SE9103,Subgroup,Dec-25,22.6
+    Tertiary and other post-school education,SE9103,Subgroup,Mar-26,4
+    Tertiary and other post-school education,SE9103,Subgroup,Jun-26,4
+    Other education,SE9104,Subgroup,Jun-25,5.1
+    Other education,SE9104,Subgroup,Sep-25,5.1
+    Other education,SE9104,Subgroup,Dec-25,5.1
+    Other education,SE9104,Subgroup,Mar-26,2
+    Other education,SE9104,Subgroup,Jun-26,2
+Miscellaneous goods and services group,SE911,Group,Jun-25,3.6
+Miscellaneous goods and services group,SE911,Group,Sep-25,2.9
+Miscellaneous goods and services group,SE911,Group,Dec-25,2.1
+Miscellaneous goods and services group,SE911,Group,Mar-26,2.2
+Miscellaneous goods and services group,SE911,Group,Jun-26,1
+    Personal care,SE9111,Subgroup,Jun-25,1.3
+    Personal care,SE9111,Subgroup,Sep-25,1.9
+    Personal care,SE9111,Subgroup,Dec-25,1.8
+    Personal care,SE9111,Subgroup,Mar-26,2
+    Personal care,SE9111,Subgroup,Jun-26,0.9
+    Personal effects,SE9113,Subgroup,Jun-25,6.7
+    Personal effects,SE9113,Subgroup,Sep-25,6.5
+    Personal effects,SE9113,Subgroup,Dec-25,8.3
+    Personal effects,SE9113,Subgroup,Mar-26,18.6
+    Personal effects,SE9113,Subgroup,Jun-26,16.2
+    Insurance,SE9114,Subgroup,Jun-25,6
+    Insurance,SE9114,Subgroup,Sep-25,4.1
+    Insurance,SE9114,Subgroup,Dec-25,2.4
+    Insurance,SE9114,Subgroup,Mar-26,1.6
+    Insurance,SE9114,Subgroup,Jun-26,1.2
+    Credit services,SE9115,Subgroup,Jun-25,-4.8
+    Credit services,SE9115,Subgroup,Sep-25,-2
+    Credit services,SE9115,Subgroup,Dec-25,-0.7
+    Credit services,SE9115,Subgroup,Mar-26,-0.9
+    Credit services,SE9115,Subgroup,Jun-26,-1.2
+    Other miscellaneous services,SE9116,Subgroup,Jun-25,1.7
+    Other miscellaneous services,SE9116,Subgroup,Sep-25,0.9
+    Other miscellaneous services,SE9116,Subgroup,Dec-25,0.6
+    Other miscellaneous services,SE9116,Subgroup,Mar-26,-1.1
+    Other miscellaneous services,SE9116,Subgroup,Jun-26,-3.6
+All groups,SE9A,Overall,Jun-25,2.7
+All groups,SE9A,Overall,Sep-25,3
+All groups,SE9A,Overall,Dec-25,3.1
+All groups,SE9A,Overall,Mar-26,3.1
+All groups,SE9A,Overall,Jun-26,4.1

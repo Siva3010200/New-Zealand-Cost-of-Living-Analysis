@@ -1,0 +1,29 @@
+﻿Retail_Item,Retail_Code,CPI_Category_Code
+    Beer – bottles (supermarket & liquor store),SAP0200,SE902
+    Beer – glass (licensed premises),SAP0210,SE902
+"    Wine – cask, white (supermarket & liquor store)",SAP0220,SE902
+    Whisky (liquor store),SAP0230,SE902
+    Cigarettes (supermarket & convenience store),SAP0240,SE902
+    Socks – men's (clothing store & department store),SAP0300,SE903
+"    Dry cleaning – men's two-piece, woollen suit",SAP0320,SE905
+    Spouting/guttering – plastic,SAP0400,SE904
+    Concrete blocks – 390mm x 190mm x 190mm,SAP0410,SE904
+"    House paint – acrylic, white",SAP0420,SE904
+"    Carpet – wool, heavy duty, cut pile, width 3.66m",SAP0500,SE904
+    Clothes washing powder – concentrate (supermarket),SAP0531,SE905
+    Detergent – dishwashing liquid (supermarket)(3),SAP0541,SE905
+    Cling food wrap – refill roll (supermarket),SAP0550,SE905
+"    General Practitioner – consultation, adult without community services card",SAP0600,SE906
+    Optometrist – examination,SAP0610,SE906
+"    Dental examination – 2 X-rays, scale and polish",SAP0620,SE906
+    Car battery – 12 volts,SAP0700,SE907
+    Petrol – 91 octane,SAP0710,SE907
+    Petrol – 95/98 octane,SAP0720,SE907
+    Diesel,SAP0730,SE907
+    Warrant of fitness – private car,SAP0740,SE907
+    Pet food – canned (supermarket),SAP0910,SE911
+"    Hairdressing – women's shampoo, cut, and blow wave",SAP1100,SE911
+"    Bathroom soap – cake, 100g (supermarket)",SAP1110,SE911
+    Shampoo (supermarket),SAP1120,SE911
+    Tissues – facial (supermarket),SAP1130,SE911
+    Toilet paper (supermarket),SAP1141,SE911
