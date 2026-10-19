@@ -23,7 +23,17 @@ Transport had the largest increase in category inflation.
 Transport and housing made the largest weighted contributions to inflation in June 2026.
 
 Dashboard Preview
-Power BI dashboard screenshots will be displayed here.
+
+1. Cost of Living Overview
+![Overview](screenshots/NZ%20Cost%20of%20Living%20Overview.png) 
+
+
+2. Regional & Category Analysis
+![Regional Analysis](screenshots/NZ%20Regional%20%26%20Category%20Analysis.png)
+
+3. Retail Prices & Consumer Impact
+![Retail Prices](screenshots/NZ%20Retail%20Prices%20Consumer%20Impact.png)
+
 
 ## Data Source
 [Stats NZ — Consumers Price Index, June 2026 quarter](https://www.stats.govt.nz/information-releases/consumers-price-index-june-2026-quarter/)
